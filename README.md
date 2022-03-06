@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Execatsu
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on plugins of minecraft
+- 📫 How to reach me on discord: Execatsu#1013
