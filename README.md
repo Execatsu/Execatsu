@@ -1,5 +1,29 @@
-- 👋 Hi, I’m @Execatsu
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on plugins of minecraft
-- 📫 How to reach me on discord: Execatsu#1013
+## Olá me chamo Cássius, mais conhecido pelo nickname de Execatsu
+
+<div align="center">
+  <a href="https://github.com/execatsu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=execatsu&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execatsu&layout=compact&langs_count=8&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
+  </a>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Execatsu-Img" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/704476567312531506/958105046908829777/Perfil_1x1.jpg?width=676&height=676">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.youtube.com/execatsu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/cassiusfer12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/execatsu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://bit.ly/hytronex" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:execatsucontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cássius-fernando-b9b262214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/execatsu/execatsu/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
