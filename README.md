@@ -1,4 +1,9 @@
 ## Olá me chamo Cássius, mais conhecido pelo nickname de Execatsu
+- Sou estudante de programação focado em se tornar full stack
+- Iniciei programando em javascript
+- A linguaguem que mais quero aprender é Java
+- Tenho mais facilidade no front mas tenho mais curiosidade no back
+##
 
 <div align="center">
   <a href="https://github.com/execatsu">
