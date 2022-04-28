@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/execatsu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=execatsu&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execatsu&layout=compact&langs_count=8&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=execatsu&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execatsu&layout=compact&langs_count=8&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
   </a>
 </div>
   
